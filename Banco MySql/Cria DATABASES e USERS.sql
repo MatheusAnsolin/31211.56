@@ -13,3 +13,6 @@ create database db_universidade;
  create user expedicao;
  create user gerencia_adm;
  create user loja;
+ /* UPDATE mysql.user SET Password=PASSWORD(’123’) WHERE User=’marcelo’ AND Host=’localhost’; */
+ 
+ 
